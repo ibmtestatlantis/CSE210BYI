@@ -1,2 +1,2 @@
-# CSE210BYI
+# CSE210BYUI
 Team - 2
